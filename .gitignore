@@ -1,0 +1,13 @@
+# Ignore Arduino build files
+*.o
+*.elf
+*.hex
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore other temporary files
+*.tmp
+*.log
+*.bak
+
